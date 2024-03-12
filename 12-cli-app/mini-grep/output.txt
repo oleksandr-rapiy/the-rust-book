@@ -1,0 +1,6 @@
+Searching for the
+In file text.txt
+the type parameters often must use traits 
+implements. For example, the following example uses 
+the trait Display to print and so it requires T to be
+The some data 
