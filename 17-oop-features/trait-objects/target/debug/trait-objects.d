@@ -1,0 +1,1 @@
+C:\Personal\the-rust-book\17-oop-features\trait-objects\target\debug\trait-objects.exe: C:\Personal\the-rust-book\17-oop-features\trait-objects\src\lib.rs C:\Personal\the-rust-book\17-oop-features\trait-objects\src\main.rs

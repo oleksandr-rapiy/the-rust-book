@@ -1,0 +1,1 @@
+C:\Personal\the-rust-book\17-oop-features\state-pattern\target\debug\state-pattern.exe: C:\Personal\the-rust-book\17-oop-features\state-pattern\src\blog\mod.rs C:\Personal\the-rust-book\17-oop-features\state-pattern\src\lib.rs C:\Personal\the-rust-book\17-oop-features\state-pattern\src\main.rs

@@ -18,15 +18,19 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
 }
 
 pub fn search<'a>(query: &str, content: &'a str) -> Vec<&'a str> {
-    let mut result: Vec<&str> = Vec::new();
+    // let mut result: Vec<&str> = Vec::new();
 
-    for line in content.lines() {
-        if line.contains(query) {
-            result.push(line)
-        }
-    }
+    // for line in content.lines() {
+    //     if line.contains(query) {
+    //         result.push(line)
+    //     }
+    // }
 
-    return result;
+    // return result;
+
+    content.lines()
+        .filter(|line| line.contains(query))
+        .collect()
 }
 
 pub fn search_case_insensitive<'a>(query: &str, content: &'a str) -> Vec<&'a str> {

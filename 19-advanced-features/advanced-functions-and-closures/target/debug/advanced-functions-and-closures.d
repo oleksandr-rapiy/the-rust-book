@@ -1,0 +1,1 @@
+C:\Personal\the-rust-book\19-advanced-features\advanced-functions-and-closures\target\debug\advanced-functions-and-closures.exe: C:\Personal\the-rust-book\19-advanced-features\advanced-functions-and-closures\src\main.rs
